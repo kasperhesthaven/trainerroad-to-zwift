@@ -1,0 +1,16 @@
+{
+  "name": "trainerroad-to-zwift",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "description": "",
+  "dependencies": {
+    "async-sema": "^3.1.0",
+    "node-fetch": "^2.6.1"
+  }
+}

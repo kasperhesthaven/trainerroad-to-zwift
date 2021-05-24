@@ -1,2 +1,2 @@
-# trainerroad-to-zwift
- Saves TrainerRoad workouts as Zwift zwo workouts
+# TrainerRoad to Zwift
+ Saves TrainerRoad workouts as Zwift .zwo workout files.
